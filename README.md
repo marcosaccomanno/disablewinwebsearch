@@ -12,3 +12,4 @@ This script modifies the windows registry. I do NOT take responsibility for what
 
 ### How it works
 This script simply creates a new registry entry called ```DisableSearchBoxSuggestions``` located at ```HKCU:\SOFTWARE\Policies\Microsoft\Windows\Explorer```.
+It is possible to do this manually too, but running the script is an easy and automatic way to do it.
